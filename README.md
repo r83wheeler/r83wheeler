@@ -1,4 +1,4 @@
-### Hi there, I'm Russ 👋
+### Hi there, I'm Russ 👋 \n
 
 <!--
 **r83wheeler/r83wheeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
