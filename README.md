@@ -18,7 +18,7 @@ Here are some ideas to get you started:
       
 ### Portfolio  
 
-- #### Expense Tracker App - [Repository](expense-tracker.md)
+- #### Expense Tracker App - [Repository](https://github.com/r83wheeler/expense-tracker.md)
 
 
 
