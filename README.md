@@ -18,7 +18,13 @@ Here are some ideas to get you started:
       
 ### Portfolio  
 
-- #### Expense Tracker App - [Repository](https://github.com/r83wheeler/expense-tracker)
+#### Expense Tracker App - [Repository](https://github.com/r83wheeler/expense-tracker) (React.js) 
+ * This is an interactive Web App that allows the user to easily add expenses and track those expenses using a bar graph. All expenses are filtered by year and show the month and day that they occurred.  
+ * Utilized React to create custom components, seperated state on a per component instance basis to update individual expenses.  
+
+#### Monthly Challenges App - [Repository](https://github.com/r83wheeler/monthly_challenges) (Python/ Django)    
+ * Created dynamic path segments & captured values using placeholder syntax.  
+ * Added, registered & rendered templates using Django Template Language (DTL) & variable interpolation.  
 
 
 
