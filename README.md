@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I graduated from Awesome Inc. Full Stack Web Development program.   
 - 💼 I am proficient with HTML, CSS, JavaScript, Python, MySQL & Firebase.  
-- 🌱 I’m currently learning Python, Django.  
+- 🌱 I’m currently learning Django, PostgreSQL, and AWS.  
 - 👯 I’m looking to collaborate on anything that has to do with fighting climate change.   
 - 💬 Ask me about my story on how and why I transitioned from an Electrician to Software Developer.   
 - 📫 How to reach me: [Gmail](http://r83wheeler@gmail.com) | [LinkedIn](http://linkedin.com/in/russellswheeler/).    
