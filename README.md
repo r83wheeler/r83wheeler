@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I graduated from Awesome Inc. Full Stack Web Development program.   
 - 💼 I am experienced in HTML, CSS, JavaScript, MySQL & Firebase.  
-- 🌱 I’m currently learning Python 3, Ethical Hacking and anything Cybersecurity.  
-- 👯 I’m looking to collaborate on anything that has to do with fighting climate change.   
-- 💬 Ask me about my story on how and why I transitioned from an Electrician to a Software QA Engineer.   
+- 🌱 I’m currently learning Python3, Ethical Hacking and anything Cybersecurity.  
+- 👯 I spend a lot of time brushing up my skills on Try Hackme and Hackerone.     
 - 📫 How to reach me: [Gmail](http://r83wheeler@gmail.com) | [LinkedIn](http://linkedin.com/in/russellswheeler/).    
 - ⚡ Fun fact: I've walked on top of the CN Tower in Toronto. (CN Tower Edge Walk).:tokyo_tower:   
   
